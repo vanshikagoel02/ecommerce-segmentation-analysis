@@ -22,4 +22,4 @@ This project analyzes a dataset of 500,000+ transaction records to optimize mark
 * **Techniques:** K-Means Clustering, RFM Analysis, Data Visualization
 
   Vanshika Goel
-  Developer
+  (Developer)
