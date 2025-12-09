@@ -20,3 +20,6 @@ This project analyzes a dataset of 500,000+ transaction records to optimize mark
 ## Technologies Used
 * **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Techniques:** K-Means Clustering, RFM Analysis, Data Visualization
+
+  Vanshika Goel
+  Developer
